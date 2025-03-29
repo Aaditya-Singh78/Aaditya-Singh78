@@ -98,11 +98,10 @@ As I continue my professional journey, I am keen to engage with opportunities th
 </section>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Singh78/Aaditya-Singh78/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Singh78/Aaditya-Singh78/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aaditya-Singh78/Aaditya-Singh78/output/github-snake.svg" />
 </picture>
-
 <footer>
 <h3 align="center">Let's Connect & Chat!</h3>
 <div align="center">
@@ -117,3 +116,8 @@ As I continue my professional journey, I am keen to engage with opportunities th
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aadsingh&&style=flat-square" align="center" />
 </div>  
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f67e84&height=30&section=footer"/>
+</p>

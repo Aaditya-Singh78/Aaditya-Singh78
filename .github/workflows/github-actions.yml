@@ -1,7 +1,7 @@
 name: Aaditya's Contribution to Open Source
 on:
   schedule:
-    - cron: "30 3 * * *"  # Runs every day at 03:30 UTC
+    - cron: 30 3 * * *  # Runs every day at 03:30 UTC
 
 jobs:
   build:
@@ -9,6 +9,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
