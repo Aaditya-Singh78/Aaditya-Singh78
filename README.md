@@ -116,3 +116,8 @@ As I continue my professional journey, I am keen to engage with opportunities th
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aadsingh&&style=flat-square" align="center" />
 </div>  
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f67e84&height=30&section=footer"/>
+</p>
