@@ -1,5 +1,4 @@
 name: Aaditya's Contribution to Open Source
-
 on:
   schedule:
     - cron: "30 3 * * *"  # Runs every day at 03:30 UTC
