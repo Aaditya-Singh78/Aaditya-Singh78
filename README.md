@@ -96,6 +96,12 @@ As I continue my professional journey, I am keen to engage with opportunities th
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"></img>
 
 </section>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Singh78/Aaditya-Singh78/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Singh78/Aaditya-Singh78/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aaditya-Singh78/Aaditya-Singh78/output/github-snake.svg" />
+</picture>
 <footer>
 <h3 align="center">Let's Connect & Chat!</h3>
 <div align="center">
