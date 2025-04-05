@@ -82,5 +82,5 @@ Feel free to connect or reach out—I'm always up for discussing cool projects, 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f67e84&height=30&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f67e84&section=footer"/>
 </p>
