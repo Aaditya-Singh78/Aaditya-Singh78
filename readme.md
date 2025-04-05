@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlnemN0bjhtcGlkNzdmOGR6enBxeGhnNGszMmY5Y2t4eWtuMGZ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7u0xDii57oWIYuDQ7o/giphy.gif" width="50%" height="50%" alt="Github GIF">
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlnemN0bjhtcGlkNzdmOGR6enBxeGhnNGszMmY5Y2t4eWtuMGZ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7u0xDii57oWIYuDQ7o/giphy.gif" width="50%" height="50%" alt="GitHub GIF">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadi-singh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaditya.out@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__Aadityasingh)
