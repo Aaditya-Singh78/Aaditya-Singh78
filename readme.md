@@ -11,13 +11,13 @@
 <div align="center">
 
 <a href="mailto:aadityasingh29.01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="outline:none;"alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/aadi-singh" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="outline:none;"/>
 </a>
 <a href="https://twitter.com/__aadityasingh" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter / X" />
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" style="outline:none;"alt="Twitter / X" />
 </a>
 
 </div>
@@ -63,69 +63,68 @@ Building systems that *simplify*, *scale*, and *serve*—especially under real-w
 ### 🧰 Tools & Technologies
 
 <div align="center">
-
 <!-- Analytics -->
 <a href="https://www.tableau.com/" target="_blank">
-  <img src="./assets/image-13.png" alt="Tableau" height="48" weight="48"/>
+  <img src="./assets/image-13.png" alt="Tableau" height="48" weight="48" style="outline:none;"/>
 </a>
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="./assets/image-17.png" alt="Tableau" height="48" weight="48"/>
+<a href="https://www.excel.com/" target="_blank">
+  <img src="./assets/image-17.png" alt="Excel" height="48" weight="48" style="outline:none;"/>
 </a>
 
 <!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="./assets/image-15.png" alt="MySQL" height="48" weight="48"/>
+  <img src="./assets/image-15.png" alt="MySQL" height="48" weight="48" style="outline:none;"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="./assets/image-5.png" alt="PostgreSQL" height="48" weight="48"/>
+  <img src="./assets/image-5.png" alt="PostgreSQL" height="48" weight="48" style="outline:none;"/>
 </a>
 <a href="https://www.oracle.com/database/" target="_blank">
-  <img src="./assets/image-6.png" alt="Oracle" height="48" weight="48" />
+  <img src="./assets/image-6.png" alt="Oracle" height="48" weight="48" style="outline:none;" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="./assets/image-7.png" alt="MongoDB" height="48" weight="48"/>
+  <img src="./assets/image-7.png" alt="MongoDB" height="48" weight="48" style="outline:none;"/>
 </a>
 
 <br />
 
 <!-- Languages -->
 <a href="https://www.python.org/" target="_blank">
-  <img src="./assets/image-2.png" alt="Python"  />
+  <img src="./assets/image-2.png" alt="Python" style="outline:none;" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="./assets/image-1.png" alt="JavaScript" />
+  <img src="./assets/image-1.png" alt="JavaScript" style="outline:none;" />
 </a>
 <a href="https://www.java.com/" target="_blank">
-  <img src="./assets/image.png" alt="Java" />
+  <img src="./assets/image.png" alt="Java" style="outline:none;"/>
 </a>
 <a href="https://go.dev/" target="_blank">
-  <img src="./assets/image-3.png" alt="Golang" />
+  <img src="./assets/image-3.png" alt="Golang" style="outline:none;"/>
 </a>
 <a href="https://developer.apple.com/swift/" target="_blank">
-  <img src="./assets/image-16.png" alt="Swift" height="48" weight="48"/>
+  <img src="./assets/image-16.png" alt="Swift" height="48" weight="48" style="outline:none;"/>
 </a><a href="https://developer.apple.com/swift/" target="_blank">
-  <img src="./assets/image-18.png" alt="Swift" height="48" weight="48"/>
+  <img src="./assets/image-18.png" alt="Swift" height="48" weight="48" style="outline:none;"/>
 </a>
 <br />
 
 <!-- DevOps & Infra -->
 <a href="https://git-scm.com/" target="_blank">
-  <img src="./assets/image-8.png" alt="Git" height="48" weight="48"/>
+  <img src="./assets/image-8.png" alt="Git" height="48" weight="48" style="outline:none;"/>
 </a>
 <a href="https://github.com/" target="_blank">
-  <img src="./assets/image-9.png" alt="GitHub" height="48" weight="48"/>
+  <img src="./assets/image-9.png" alt="GitHub" height="48" weight="48" style="outline:none;"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="./assets/image-10.png" alt="Docker" height="48" weight="48"/>
+  <img src="./assets/image-10.png" alt="Docker" height="48" weight="48" style="outline:none;"/>
 </a>
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="./assets/image-12.png" alt="Kubernetes" height="48" weight="48"/>
+  <img src="./assets/image-12.png" alt="Kubernetes" height="48" weight="48" style="outline:none;"/>
 </a>
 <a href="https://www.ansible.com/" target="_blank">
-  <img src="./assets/image-14.png" alt="Ansible" height="48" weight="48"/>
+  <img src="./assets/image-14.png" alt="Ansible" height="48" weight="48" style="outline:none;"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="./assets/image-11.png" alt="AWS" height="48" weight="48"/>
+  <img src="./assets/image-11.png" alt="AWS" height="48" weight="48" style="outline:none;"/>
 </a>
 
 <br />
@@ -137,25 +136,25 @@ Building systems that *simplify*, *scale*, and *serve*—especially under real-w
 <div align="center">
 
 <a href="https://codeforces.com/profile/aadityasingh" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" style="outline:none;"/>
 </a>
 <a href="https://leetcode.com/u/Aadi-singh/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode" style="outline:none;"/>
 </a>
 <a href="https://www.kaggle.com/aadityas2" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="outline:none;"/>
 </a>
 <a href="https://codepen.io/__aadityasingh" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="outline:none;" />
 </a>
 <a href="https://codesandbox.io/u/AADITYA-SINGH497" target="_blank">
-  <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="CodeSandbox" />
+  <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="CodeSandbox" style="outline:none;"/>
 </a>
 <a href="https://replit.com/@AadityaSingh6" target="_blank">
-  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" style="outline:none;"/>
 </a>
 <a href="https://stackoverflow.com/users/15673515/aaditya-singh" target="_blank">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" style="outline:none;" />
 </a>
 <!-- <a href="https://www.unrealengine.com/" target="_blank">
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
@@ -168,13 +167,13 @@ Building systems that *simplify*, *scale*, and *serve*—especially under real-w
 <div align="center">
 
 <a href="https://slack.com/your-workspace-url" target="_blank">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" style="outline:none;"/>
 </a>
 <a href="https://www.reddit.com/user/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" />
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" style="outline:none;"/>
 </a>
 <a href="https://discord.com/users/896438397776834653" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="outline:none;"/>
 </a>
 
 </div>
