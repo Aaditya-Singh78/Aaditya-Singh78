@@ -175,7 +175,6 @@ I'm an Electronics & Communication Engineering graduate from Jharkhand, India ðŸ
 Platforms where I practice problem solving, experiment with ideas, and engage with the developer community.
 
 <div align="center">
-
 <a href="https://codeforces.com/profile/aadityasingh" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" style="outline:none;"/>
 </a>
@@ -188,6 +187,8 @@ Platforms where I practice problem solving, experiment with ideas, and engage wi
 <a href="https://codepen.io/__aadityasingh" target="_blank">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="outline:none;" />
 </a>
+</div>
+<div align="center">
 <a href="https://codesandbox.io/u/AADITYA-SINGH497" target="_blank">
   <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="CodeSandbox" style="outline:none;"/>
 </a>
@@ -200,8 +201,8 @@ Platforms where I practice problem solving, experiment with ideas, and engage wi
 <!-- <a href="https://www.unrealengine.com/" target="_blank">
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 </a> -->
-
 </div>
+
 
 ## Connect
 
