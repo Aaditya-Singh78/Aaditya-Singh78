@@ -56,8 +56,9 @@ I'm an Electronics & Communication Engineering graduate from Jharkhand, India ðŸ
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="./assets/excel.png" height="48" />
 </a>
-
+</div>
 <!-- Database -->
+<div align="center">
 <a href="https://www.mysql.com/" target="_blank">
   <img src="./assets/mysql.png" height="48" />
 </a>
@@ -70,9 +71,9 @@ I'm an Electronics & Communication Engineering graduate from Jharkhand, India ðŸ
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" />
 </a>
-
+</div>
 <!-- DevOps and Infra -->
-
+<div align="center">
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
 </a>
@@ -91,10 +92,9 @@ I'm an Electronics & Communication Engineering graduate from Jharkhand, India ðŸ
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="./assets/aws.png" height="48" />
 </a>
-
-
-
+</div>
 <!-- Languages -->
+<div align="center">
 <a href="https://www.java.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
 </a>
@@ -116,7 +116,6 @@ I'm an Electronics & Communication Engineering graduate from Jharkhand, India ðŸ
 <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
 </a>
-
 <a href="https://cran.r-project.org/" target="_blank">
   <img src="./assets/rlang.png" height="48" />
 </a>
