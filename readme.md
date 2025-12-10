@@ -1,137 +1,179 @@
-# 👋 Hi, I’m Aaditya Singh
+<div align="center">
+<table>
+<tr>
+<td width="100" valign="middle">
+<img src="./assets/logo.png" alt="logo" width="100" height="100"/>
+</td>
+<td valign="middle">
+<h1>Hi, I'm Aaditya Singh 👋</h1>
+<p><strong>Engineer ⦁ Community Builder ⦁ Infrastructure Architect</strong></p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadi-singh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityasingh29.01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://aadityasingh.org/)
+
+</div>
+
+## About Me:
+
+<div align="center">
+
+> *"Engineering systems that don't just scale, they sustain"*
+
+</div>
 
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRkcHVpZzFkemFjYmk5b3J2dXptNmNoMnRranZ5NHV2ZG1uYjIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8RMyP2We9LGTPIqUB7/giphy.gif" alt="Happiness for contribution" />
 </div>
 
-<div align="center">
-<h3>Software Developer | Open Source Contributor | System Optimiser</h3>
-</div>
+I'm an Electronics & Communication Engineering graduate from Jharkhand, India 🇮🇳. Growing up in a land shaped by steel, mining, and forests taught me that the best systems aren't the flashiest. They're the ones that remain reliable and maintainable over years. I didn't have access to technology until I got enrolled in university, which meant instead of consuming it passively, I approached it with eagerness to dissect how things work across different circumstances.So, designing distributed systems, resilient architectures, and accessible technology became my focus building platforms that perform under real world pressure while strengthening ecosystems through documentation and collaboration.
 
-<div align="center">
+### What I Do
+<i>
 
-<a href="mailto:aadityasingh29.01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="outline:none;"alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/aadi-singh" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="outline:none;"/>
-</a>
-<a href="https://twitter.com/__aadityasingh" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" style="outline:none;"alt="Twitter / X" />
-</a>
+- Full Stack Development
+- Software Development
+- Data Engineering & Analytics
+- Data Science (Machine Learning & Artificial Intelligence)
 
-</div>
+</i>
 
-### 🌍 Vision
-> Bridging technology and communities by designing resilient, scalable systems that empower individuals and improve digital accessibility.
+### Tools & Technologies
 
-### 🚀 Mission
-I strive to build engineering ecosystems that go beyond just scalable code — focusing on **real-world impact**, **developer empowerment**, and **sustainable tech**. Whether it's through open-source contributions, system design, or mentorship, I aim to create tools and platforms that *actually work under pressure*.
-
-### 👨‍💻 About Me
-
-- 🎓 ECE Graduate from Jharkhand, India
-- 🔧 Transitioned from hardware systems to backend infrastructure to solve system fragility at scale
-- 🌐 Contributor to global open-source orgs like **FOSSology** & **FOSSASIA**
-- 💬 Advocate for accessible systems in healthcare, education, and industrial automation
-
-### 🛤️ My Journey
-
-| Role | Organization | Highlights |
-|------|--------------|------------|
-| 🏗️ GSoC 2024 Contributor | FOSSology | Rebuilt legacy C scheduler into a modern Go backend. Improved concurrency, task orchestration, and system stability. |
-| 🔧 Codeheat Contributor | FOSSASIA | Engineered badge generation & event workflows. Integrated real-time email & UI logic for seamless user experience. |
-| ⚙️ Graduate Engineer Trainee | Jindal Steel | Deployed high-voltage systems and optimized HMI networks for real-time plant operations. |
-| 🗃️  Vocational Trainee | MECON Ltd. | Built an asset tracking system that improved record efficiency by 20%, maintaining over 1,000 records under a 1GB DB limit. |
-| 🔐 Web Development Trainee | Walkover | Designed a credential management system with Firebase & Node.js; proposed cloud-native auth system reducing error rates. |
-
-### 🌱 Community + Mentorship
-
-> "Implementing Extreme Ownership requires checking your ego and operating with a high degree of humility."
-
-    
-- 👥 Mentored 100+ first-time contributors.
-- 📣 Shared lessons on OSS navigation, Git workflows, and project onboarding
-- 💡 Helped transform curiosity into confidence across multiple learning communities
-
-### 💡 What Drives Me?
-
-Building systems that *simplify*, *scale*, and *serve*—especially under real-world stress. Whether it's fault-tolerant backends, cross-functional toolchains, or developer onboarding, I'm driven by design that *delivers*.
-
-> "I’m not just building code — I’m building ecosystems that work better for everyone."
-
-### 🧰 Tools & Technologies
-
+<br />
 <div align="center">
 <!-- Analytics -->
 <a href="https://www.tableau.com/" target="_blank">
-  <img src="./assets/image-13.png" alt="Tableau" height="48" weight="48" style="outline:none;"/>
+  <img src="./assets/tableau.png" height="48" />
 </a>
-<a href="https://www.excel.com/" target="_blank">
-  <img src="./assets/image-17.png" alt="Excel" height="48" weight="48" style="outline:none;"/>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="./assets/excel.png" height="48" />
 </a>
 
-<!-- Databases -->
+<!-- Database -->
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="./assets/image-15.png" alt="MySQL" height="48" weight="48" style="outline:none;"/>
+  <img src="./assets/mysql.png" height="48" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="./assets/image-5.png" alt="PostgreSQL" height="48" weight="48" style="outline:none;"/>
+  <img src="./assets/postgresql.png" height="48" />
 </a>
 <a href="https://www.oracle.com/database/" target="_blank">
-  <img src="./assets/image-6.png" alt="Oracle" height="48" weight="48" style="outline:none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="./assets/image-7.png" alt="MongoDB" height="48" weight="48" style="outline:none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" />
 </a>
 
-<br />
+<!-- DevOps and Infra -->
 
-<!-- Languages -->
-<a href="https://www.python.org/" target="_blank">
-  <img src="./assets/image-2.png" alt="Python" style="outline:none;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="./assets/image-1.png" alt="JavaScript" style="outline:none;" />
-</a>
-<a href="https://www.java.com/" target="_blank">
-  <img src="./assets/image.png" alt="Java" style="outline:none;"/>
-</a>
-<a href="https://go.dev/" target="_blank">
-  <img src="./assets/image-3.png" alt="Golang" style="outline:none;"/>
-</a>
-<a href="https://developer.apple.com/swift/" target="_blank">
-  <img src="./assets/image-16.png" alt="Swift" height="48" weight="48" style="outline:none;"/>
-</a><a href="https://developer.apple.com/swift/" target="_blank">
-  <img src="./assets/image-18.png" alt="Swift" height="48" weight="48" style="outline:none;"/>
-</a>
-<br />
-
-<!-- DevOps & Infra -->
 <a href="https://git-scm.com/" target="_blank">
-  <img src="./assets/image-8.png" alt="Git" height="48" weight="48" style="outline:none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
 </a>
 <a href="https://github.com/" target="_blank">
-  <img src="./assets/image-9.png" alt="GitHub" height="48" weight="48" style="outline:none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" />
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="./assets/image-10.png" alt="Docker" height="48" weight="48" style="outline:none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" />
 </a>
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="./assets/image-12.png" alt="Kubernetes" height="48" weight="48" style="outline:none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" />
 </a>
 <a href="https://www.ansible.com/" target="_blank">
-  <img src="./assets/image-14.png" alt="Ansible" height="48" weight="48" style="outline:none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="48" />
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="./assets/image-11.png" alt="AWS" height="48" weight="48" style="outline:none;"/>
+  <img src="./assets/aws.png" height="48" />
 </a>
 
-<br />
 
+
+<!-- Languages -->
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="./assets/typescript.png" height="48" />
+</a>
+<a href="https://developer.apple.com/swift/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="48" />
+</a>
+<a href="https://dart.dev/" target="_blank">
+  <img src="./assets/dart.png" height="48" />
+</a>
+<a href="https://go.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="48" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+</a>
+
+<a href="https://cran.r-project.org/" target="_blank">
+  <img src="./assets/rlang.png" height="48" />
+</a>
 </div>
 
-### 🖋️ Development Forums
+### Statistics
+
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Aaditya-Singh78" alt="GitHub Stats">
+    </td>
+    <td style="border: none;">
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Aaditya-Singh78&type=languages" alt="Top Languages">
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Aaditya-Singh78&type=contributions" alt="Contributions">
+    </td>
+    <td style="border: none;">
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Aaditya-Singh78&type=top-repos" alt="Top Repos">
+    </td>
+  </tr>
+</table>
+
+<!-- Fix(Blogs and Articles) Required to be Published -->
+<!-- ### Articles
+
+- [Blog1]()
+- [Blog2]()
+- [Blog3]()
+
+### Case Studies
+
+<div align="center">
+<a href="">
+<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Maps"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
+</a>
+</div> -->
+
+<!-- ### Recoginiton  -->
+
+
+## Forums
+
+Platforms where I practice problem solving, experiment with ideas, and engage with the developer community.
 
 <div align="center">
 
@@ -162,14 +204,16 @@ Building systems that *simplify*, *scale*, and *serve*—especially under real-w
 
 </div>
 
-### 📡 Communication Channels
+## Connect
+
+Stay connected and join the spaces where I share updates, discuss ideas, and collaborate with the community
 
 <div align="center">
 
 <a href="https://slack.com/your-workspace-url" target="_blank">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" style="outline:none;"/>
 </a>
-<a href="https://www.reddit.com/user/YOUR_USERNAME" target="_blank">
+<a href="https://www.reddit.com/user/Aaditya-Singh78" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" style="outline:none;"/>
 </a>
 <a href="https://discord.com/users/896438397776834653" target="_blank">
@@ -178,12 +222,20 @@ Building systems that *simplify*, *scale*, and *serve*—especially under real-w
 
 </div>
 
-### ☕ Sponsor
-
+---
 <div align="center">
 
-<!-- <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-</a> -->
+### <img src="./assets/coffee.png" height="24" align="center" /> Thanks for Visiting!
 
-</div>
+Got questions, comments, or feedback?<br/>
+Feel free to reach out and contact me.
+
+<br/>
+
+<sub>Licensed under MIT · Aaditya Singh · All Rights Reserved</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=588157&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=588157&height=100&section=footer">
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=588157&height=100&section=footer">
+</picture>
