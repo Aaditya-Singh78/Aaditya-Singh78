@@ -33,6 +33,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRkcHVpZzFkemFjYmk5b3J2dXptNmNoMnRranZ5NHV2ZG1uYjIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8RMyP2We9LGTPIqUB7/giphy.gif" alt="Happiness for contribution" />
 </div>
 
+
 I build at the seam where customer truth meets technical reality the place where most products quietly fail or succeed.
 
 I’m an MBA in Marketing & Business Analytics at BIT Mesra, with a B.Tech in Electronics & Communication Engineering, worked on the strategy, analytics and go-to-market discipline that turns insight into shipped product.
