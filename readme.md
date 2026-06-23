@@ -25,7 +25,7 @@
 
 <div align="center">
 
-> *"Engineering systems that don't just scale, they sustain"*
+> *"Engineered different. Built to Last*
 
 </div>
 
@@ -33,15 +33,22 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRkcHVpZzFkemFjYmk5b3J2dXptNmNoMnRranZ5NHV2ZG1uYjIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8RMyP2We9LGTPIqUB7/giphy.gif" alt="Happiness for contribution" />
 </div>
 
-I'm an Electronics & Communication Engineering graduate from Jharkhand, India 🇮🇳. Growing up in a land shaped by steel, mining, and forests taught me that the best systems aren't the flashiest. They're the ones that remain reliable and maintainable over years. I didn't have access to technology until I got enrolled in university, which meant instead of consuming it passively, I approached it with eagerness to dissect how things work across different circumstances.So, designing distributed systems, resilient architectures, and accessible technology became my focus building platforms that perform under real world pressure while strengthening ecosystems through documentation and collaboration.
+I build at the seam where customer truth meets technical reality the place where most products quietly fail or succeed.
 
-### What I Do
+I’m an MBA in Marketing & Business Analytics at BIT Mesra, with a B.Tech in Electronics & Communication Engineering, worked on the strategy, analytics and go-to-market discipline that turns insight into shipped product.
+
+I deliberately walk along that seam. I've built compliance-first product concepts in transport and healthcare, contributed to production open-source infrastructure through Google Summer of Code, audited financial systems for one of India's largest steel enterprises and now work directly in customer-facing conversations every day. where I hear what makes people commit, what makes them hesitate, and what features actually carry weight versus what sounds good in a deck.
+
+That range is not spread out. It’s the same instinct, applied to different domains: figure out where the system breaks under real conditions, define what “working” really means, and build the fix in a form that survives the environment it ships into.
+
+ I’m data-driven, steady in ambiguity, and I ruthlessly prioritize because the hardest product skill is saying ‘no’ to most things so the few that matter ship well.
+
+### What I bring:
 <i>
 
-- Full Stack Development
-- Software Development
-- Data Engineering & Analytics
-- Data Science (Machine Learning & Artificial Intelligence)
+- Technical Depth
+- Insightful Stats
+- Business Accumen
 
 </i>
 
