@@ -34,15 +34,17 @@
 </div>
 
 
-I build at the seam where customer truth meets technical reality the place where most products quietly fail or succeed.
+Intelligence in Motion. 
+
+I was born at the place where customer truth meets technical reality the place where most products quietly fail or succeed.
 
 I’m an MBA in Marketing & Business Analytics at BIT Mesra, with a B.Tech in Electronics & Communication Engineering, worked on the strategy, analytics and go-to-market discipline that turns insight into shipped product.
 
-I deliberately walk along that seam. I've built compliance-first product concepts in transport and healthcare, contributed to production open-source infrastructure through Google Summer of Code, audited financial systems for one of India's largest steel enterprises and now work directly in customer-facing conversations every day. where I hear what makes people commit, what makes them hesitate, and what features actually carry weight versus what sounds good in a deck.
+I deliberately walk along that seam. I've built compliance-first product concepts in transport and healthcare, contributed to production open-source infrastructure through Google Summer of Code, audited financial systems for one of India's largest steel enterprises, part of commissioning of hot strip mill and now work directly in customer-facing conversations every day. where I hear what makes people commit, what makes them hesitate, and what features actually carry weight versus what sounds good in a deck.
 
 That range is not spread out. It’s the same instinct, applied to different domains: figure out where the system breaks under real conditions, define what “working” really means, and build the fix in a form that survives the environment it ships into.
 
- I’m data-driven, steady in ambiguity, and I ruthlessly prioritize because the hardest product skill is saying ‘no’ to most things so the few that matter ship well.
+ I’m data-driven, steady in ambiguity, and I ruthlessly prioritise because the hardest product skill is saying ‘no’ to most things so the few that matter ship well.
 
 ### What I bring:
 <i>
