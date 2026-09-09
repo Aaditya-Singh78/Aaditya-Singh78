@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" border-size= 0px>
 <table>
 <tr>
 <td width="100" valign="middle">
