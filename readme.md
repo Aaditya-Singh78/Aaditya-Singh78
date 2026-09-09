@@ -6,7 +6,6 @@
 </td>
 <td valign="middle">
 <h1>Hi, I'm Aaditya Singh 👋</h1>
-<p><strong>Engineer ⦁ Community Builder ⦁ Infrastructure Architect</strong></p>
 </td>
 </tr>
 </table>
